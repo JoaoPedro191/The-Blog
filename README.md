@@ -6,7 +6,7 @@
 
 ## 📝 💻 Sobre o projeto
 
-Deenvolvi um Desafio Criado e apresendo pela Rocketseat, nesse desafio desenvolvi uma homepage para um blog , Para colocar o Aprendizado em Prática ✔️
+Desenvolvi um Desafio Criado e apresentado pela Rocketseat, nesse desafio desenvolvi uma homepage para um blog , Para colocar o Aprendizado em Prática ✔️
 
 ## 🛠 Tecnologias Utilizadas
 
