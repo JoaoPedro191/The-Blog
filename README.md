@@ -25,7 +25,7 @@ $ git clone https://github.com/JoaoPedro191/Theblog
 
 #entrar no repositorio
 
-$ cd  Beautysalon
+$ cd  Theblog
 
 #entrar no projeto
 
